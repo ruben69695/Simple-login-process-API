@@ -1,0 +1,11 @@
+{
+    "name": "simple-login-process-api",
+    "version": "1.0",
+    "devDependencies": {
+        "phpunit-test": "0.0.1"
+    },
+    "scripts": {
+        "test": "phpunit --verbose"
+    }
+
+}
