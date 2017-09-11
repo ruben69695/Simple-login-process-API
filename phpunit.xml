@@ -17,7 +17,8 @@
     <testsuites>
         <testsuite name="Functions">
             <directory suffix="DB_Functions.php">DB_Functions.php</directory>
-    </testsuite>
+        </testsuite>
+    </testsuites>
 
     
     <php>
